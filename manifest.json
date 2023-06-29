@@ -1,0 +1,21 @@
+{
+  "name": "Pixels on Roll20",
+  "version": "0.1",
+  "description": "Bring the magic of Pixels into Roll20!",
+  "permissions": ["activeTab", "declarativeContent", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "64": "images/logo-64.png"
+    }
+  },
+  "icons": {
+    "64": "images/logo-64.png"
+  },
+  "options_page": "options.html",
+  "manifest_version": 2
+}
