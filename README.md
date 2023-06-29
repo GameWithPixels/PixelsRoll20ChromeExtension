@@ -11,9 +11,10 @@ issues :)
 
 ## How To Install
 
-1. Download the content of this repository.
+1. Download the content of this repository (*).
 2. Open Chrome extension manager.
-3. Select "Load Unpacked", browse to the folder where you downloaded the extension.
+3. If you downloaded the contents in a zip file then unzip it.
+4. Select "Load Unpacked", browse to the folder where you downloaded the extension.
 
 ## How To Use
 
