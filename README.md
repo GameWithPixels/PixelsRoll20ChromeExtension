@@ -9,11 +9,21 @@ to the Roll20 chat.
 The scope of this extension is very limited and you should expect to encounter
 issues :)
 
+## Foreword
+
+Pixels are full of LEDs, smarts and no larger than regular dice, they can be
+customized to light up when and how you desire.
+Check our [website](https://gamewithpixels.com/) for more information.
+
+> **Warning**
+> Before jumping into programming please make sure to read our Pixels developer's
+> [guide](https://github.com/GameWithPixels/.github/blob/main/doc/DevelopersGuide.md).
+
 ## How To Install
 
 1. Download the content of this repository (*).
 2. Open Chrome extension manager.
-3. If you downloaded the contents in a zip file then unzip it.
+3. If you have downloaded this repository as a zip file then unzip it.
 4. Select "Load Unpacked", browse to the folder where you downloaded the extension.
 
 ## How To Use
